@@ -1,0 +1,3 @@
+20170830
+created the repo
+started structuring
